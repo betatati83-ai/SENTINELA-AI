@@ -3,4 +3,4 @@ yfinance
 GoogleNews
 plotly
 pandas
-google-generativea
+google-generativeai
