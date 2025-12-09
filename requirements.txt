@@ -1,5 +1,6 @@
-streamlit
+sstreamlit
 yfinance
 GoogleNews
 plotly
 pandas
+google-generativea
